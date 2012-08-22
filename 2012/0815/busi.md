@@ -1,9 +1,9 @@
 # `Array`, `Hash` and `LinkList`
 
  * Code:  
- ```js
- var L = require('linklist');
-
+ 
+```js
+var L = require('linklist');
 var list = L.init();
 var arr = [];
 var hash = {};
@@ -66,10 +66,11 @@ for (var key in hash) {
 }
 console.timeEnd('hash');
 console.log(Object.keys(hash).length);
- ```
+```
  
  * Result:  
- ```
+
+```
 arr: 672ms
 50000
 arr2: 3ms
@@ -78,5 +79,5 @@ list: 7ms
 50000
 hash: 56ms
 50000
- ```
+```
 nodejs中没有链表这个数据结构，但是在有些情况下，例如需要进行队列内遍历删除、移动等操作的时候，链表的效率是相当高的。
