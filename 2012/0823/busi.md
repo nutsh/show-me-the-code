@@ -1,8 +1,8 @@
 # C++ addon中buffer传递到js中   
-* Code: 
+* Code:  
 传递非`utf8`或者`ascii`编码的buffer  
+
 ```c++
-//
 #include <node.h>
 #include <v8.h>
 #include <node_buffer.h>
@@ -20,6 +20,7 @@ Handle<Value> test(const Arguments& args) {
 }
 ```
 两种传递buffer的方法对比:  
+
 ```c++
 #include <node.h>
 #include <v8.h>
@@ -63,6 +64,7 @@ void init(Handle<Object> target) {
 }
 NODE_MODULE(buf, init)
 ```
+
 ```js
 var bufTest = require('./build/Release/buf');
 
