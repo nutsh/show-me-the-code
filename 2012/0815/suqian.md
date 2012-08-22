@@ -1,8 +1,4 @@
-# 2012-08-15 16:30 - 18:00
-
-## mongodb replset connect() bug
-
-@苏千：
+# mongodb replset connect() bug
 
 [lib/mongodb/connection/repl_set.js#L634](https://github.com/mongodb/node-mongodb-native/blob/aae83eadad49f97f94d43ecc9c933fcbeb29b3a8/lib/mongodb/connection/repl_set.js#L634)
 
