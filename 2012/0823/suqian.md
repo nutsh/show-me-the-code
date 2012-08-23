@@ -13,13 +13,13 @@ nodejs 多版本管理工具: [nvm](https://github.com/creationix/nvm)
 
 clone 到你的目录
 
-```
+```bash
 $ git clone git://github.com/creationix/nvm.git ~/nvm
 ```
 
 添加到 ~/.bashrc or ~/.bash_profile 的最后一行
 
-```
+```bash
 . ~/nvm/nvm.sh
 
 # add bash_completion
@@ -33,14 +33,14 @@ nvm use 0.8
 
 Install nodev0.8.8 and nodev0.6.12
 
-```
+```bash
 $ nvm install v0.8.8
 $ nvm install v0.6.12
 ```
 
 自由切换版本
 
-```
+```bash
 $ nvm use 0.8
 $ nvm use 0.6
 ```
