@@ -44,3 +44,15 @@ $ nvm install v0.6.12
 $ nvm use 0.8
 $ nvm use 0.6
 ```
+
+## 有什么用？
+
+如果你参与的项目是使用不同的nodejs版本，或者你写的模块需要兼容多个版本，那么这是必然选择。
+
+例如，我写的`connect-render`需要支持多个 node 版本，开发测试就必须方便地切换版本。
+
+```bash
+$ nvm use 0.6 && make test
+$ nvm use 0.8 && make test
+$ # nvm use 0.4 && make test
+```
