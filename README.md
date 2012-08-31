@@ -8,7 +8,7 @@ Show me the code, one day per week.
 * [2012](https://github.com/TBEDP/show-me-the-code/tree/master/2012)
  * [0831](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831)
   * [模拟 Nagle 算法的Delayed Ack](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831/suqian.md)
-  * [`Landscape`](https://github.com/JacksonTian/landscape)
+  * [`Landscape` 前端业务逻辑组织解决方案](https://github.com/JacksonTian/landscape)
  * [0823](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0823)
   * [C++ addon中buffer传递到js中](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0823/busi.md)
   * [mysql连接超时问题](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0823/jifeng.md)
