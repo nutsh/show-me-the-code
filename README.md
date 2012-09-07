@@ -10,6 +10,7 @@ Show me the code, one day per week.
   * [异步调用限流方案](https://github.com/JacksonTian/bagpipe) @[JacksonTian]
   * [logstream: 专为日志文件而生的WriteStream模块](https://github.com/fengmk2/logstream) @[fengmk2]
   * [generic-pool](https://github.com/TBEDP/show-me-the-code/blob/master/2012/0907/jifeng.md) @[jifeng]
+  * [node-benchmark工具，支持任何接口](https://github.com/dead-horse/node-benchmark) @[dead-horse]
  * [0831](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831)
   * [模拟 Nagle 算法的Delayed Ack](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831/suqian.md) @[fengmk2]
   * [`Landscape` 前端业务逻辑组织解决方案](https://github.com/JacksonTian/landscape) @[JacksonTian]
