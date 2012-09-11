@@ -6,6 +6,8 @@ Show me the code, one day per week.
 ## List
 
 * [2012](https://github.com/TBEDP/show-me-the-code/tree/master/2012)
+ * [0912](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0912)
+  * [supertest](https://github.com/TBEDP/show-me-the-code/blob/master/2012/0912/suqian.md), [github](https://github.com/visionmedia/supertest) @[fengmk2]
  * [0907](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0907)
   * [异步调用限流方案](https://github.com/JacksonTian/bagpipe) @[JacksonTian]
   * [logstream: 专为日志文件而生的WriteStream模块](https://github.com/fengmk2/logstream) @[fengmk2]
