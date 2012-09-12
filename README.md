@@ -3,6 +3,17 @@ Show me the code
 
 Show me the code, one day per week.
 
+## Speakers
+
+|Rank|Name|Times|
+|----|----|----|
+|#0|[dead-horse]@不四|5|
+|#1|[fengmk2]@苏千|5|
+|#2|[JacksonTian]@朴灵|4|
+|#3|[jifeng]@继风|2|
+|#4|[coolme200]@汤尧|1|
+|#5|[christineRR]@柳心|1|
+
 ## List
 
 * [2012](https://github.com/TBEDP/show-me-the-code/tree/master/2012)
@@ -19,7 +30,7 @@ Show me the code, one day per week.
   * [模拟 Nagle 算法的Delayed Ack](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831/suqian.md) @[fengmk2]
   * [`Landscape` 前端业务逻辑组织解决方案](https://github.com/JacksonTian/landscape) @[JacksonTian]
   * [Tiny ack-style file search utility.](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831/busi.md) @[dead-horse]
-  * [log4js 日志使用](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831/tangyao.md)
+  * [log4js 日志使用](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0831/tangyao.md) @[coolme200]
  * [0823](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0823)
   * [C++ addon中buffer传递到js中](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0823/busi.md) @[dead-horse]
   * [mysql连接超时问题](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0823/jifeng.md) @[jifeng]
@@ -36,3 +47,5 @@ Linus: ["Talk is cheap. Show me the code."](https://lkml.org/lkml/2000/8/25/132)
   [fengmk2]: https://github.com/fengmk2
   [dead-horse]: https://github.com/dead-horse
   [jifeng]: https://github.com/jifeng
+  [coolme200]: https://github.com/coolme200
+  [christineRR]: https://github.com/christineRR
