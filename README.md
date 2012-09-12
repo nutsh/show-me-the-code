@@ -8,11 +8,11 @@ Show me the code, one day per week.
 |Rank|Name|Times|
 |----|----|----|
 |#0|[dead-horse]@不四|5|
-|#1|[fengmk2]@苏千|5|
-|#2|[JacksonTian]@朴灵|4|
+|#0|[fengmk2]@苏千|5|
+|#0|[JacksonTian]@朴灵|5|
 |#3|[jifeng]@继风|2|
 |#4|[coolme200]@汤尧|1|
-|#5|[christineRR]@柳心|1|
+|#4|[christineRR]@柳心|1|
 
 ## List
 
