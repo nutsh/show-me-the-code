@@ -7,6 +7,7 @@ Show me the code, one day per week.
 
 * [2012](https://github.com/TBEDP/show-me-the-code/tree/master/2012)
  * [0912](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0912)
+  * [魔方前端优化的几点实践](https://github.com/TBEDP/show-me-the-code/blob/master/2012/0912/liuxin.md) @[christineRR] 
   * [使用 supertest 辅助http相关的单元测试](https://github.com/TBEDP/show-me-the-code/blob/master/2012/0912/suqian.md), supertest@[github](https://github.com/visionmedia/supertest) @[fengmk2]
   * [forwards流量转发模块](https://github.com/TBEDP/show-me-the-code/blob/master/2012/0912/busi.md), [forwards](https://github.com/dead-horse/forwards) @[dead-horse]   
  * [0907](https://github.com/TBEDP/show-me-the-code/tree/master/2012/0907)
