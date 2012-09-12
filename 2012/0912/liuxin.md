@@ -12,7 +12,7 @@
 
 3、组件的销毁
 
-  事件解绑，unbind，undelegate等等，慎用mouseover事件
+  事件解绑，unbind，undelegate等等，慎用mousemove事件，如果一定要是用，可以通过setInterval控制。
 
   变量销毁，null or delete区别，删除属性的唯一方法是使用 delete 操作符；设置属性为 undefined 或者null 并不能真正的删除属性， 而仅仅是移除了属性和值的关联
   
